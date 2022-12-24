@@ -1,0 +1,7 @@
+C:\Users\geras\source\repos\MyDelegate\MyDelegate\bin\Debug\MyDelegate.exe.config
+C:\Users\geras\source\repos\MyDelegate\MyDelegate\bin\Debug\MyDelegate.exe
+C:\Users\geras\source\repos\MyDelegate\MyDelegate\bin\Debug\MyDelegate.pdb
+C:\Users\geras\source\repos\MyDelegate\MyDelegate\obj\Debug\MyDelegate.csproj.AssemblyReference.cache
+C:\Users\geras\source\repos\MyDelegate\MyDelegate\obj\Debug\MyDelegate.csproj.CoreCompileInputs.cache
+C:\Users\geras\source\repos\MyDelegate\MyDelegate\obj\Debug\MyDelegate.exe
+C:\Users\geras\source\repos\MyDelegate\MyDelegate\obj\Debug\MyDelegate.pdb
